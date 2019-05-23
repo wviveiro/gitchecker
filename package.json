@@ -4,13 +4,13 @@
   "description": "",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "gitchecker": "./bin/gitchecker.js"
   },
   "keywords": [],
-  "author": "Wellington Viveiro <wellington@asmex.digital>",
+  "author": "Wellington Viveiro <wellyviveiro@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "simple-git": "^1.113.0"
