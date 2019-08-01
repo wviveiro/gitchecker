@@ -3,7 +3,7 @@ Node script to verify for possible commits or changes in folder with multiple gi
 
 ## Install
 ```
-npm i -g gitchecker
+npm i -g @wviveiro/gitchecker
 ```
 
 ## Usage
