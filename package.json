@@ -14,6 +14,6 @@
   "author": "Wellington Viveiro <wellyviveiro@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "simple-git": "^1.113.0"
+    "simple-git": "^3.3.0"
   }
 }
